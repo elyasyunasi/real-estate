@@ -1,0 +1,68 @@
+Real-estate
+************** HOME PAGE *****************
+**************Navbar Section**********
+Logo
+home section
+rent section
+sell section
+buy  section
+about 
+contact
+listing button
+
+for small screen
+just a menu right side
+
+
+****************** Hero page **********************
+h1(Find your dream house)
+p(Your Property, Our Priority and From as low as $10 per day with limited time offer discount)
+search bar(input(search homes by address, dropdown(All categories))
+
+****************** Recent Property **********************
+p(We provide a full services at every step.)
+
+************* Most Popular Places ***************** 
+p(Find properities in these cities)
+Girne
+Famagusta
+Lefkosa
+Catalkoy
+Arapkoy
+****************** Request A Quote **********************
+p(signup & build your dream house)
+p(We'll help you to grow your career and growth, please contact team walls real estate and get this offer promo)
+button (Request A Quote  > )
+****************** Footer **********************
+Logo top left
+
+p(Rethouse Real Estate is a premium Property template based on Bootstrap 4. Rethouse Real Estate helped thousands of clients to find the right property for their needs.)
+Address(
+214 West Arnold St. New York, NY 10002
+(123) 345-6789
+(+100) 123 456 7890
+support@realvilla.demo
+Mon - Sun / 9:00AM - 8:00PM)
+
+
+****************** Hero page **********************
+
+****************** Hero page **********************
+
+****************** Hero page **********************
+
+****************** Hero page **********************
+
+****************** Hero page **********************
+
+****************** Hero page **********************
+
+****************** Hero page **********************
+
+****************** Hero page **********************
+
+****************** Hero page **********************
+
+
+
+

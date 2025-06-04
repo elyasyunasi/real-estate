@@ -1,7 +1,6 @@
 /* src/components/layout/hero/HeroSection.module.css */
-
 .hero {
-  background-image: url('/hero-bg.jpg'); /* Save your image in /public as hero-bg.jpg */
+  background-image: url('../../../../public/heroimage.png'); /* Save your image in /public as hero-bg.jpg */
   background-size: cover;
   background-position: center;
   height: 90vh;
